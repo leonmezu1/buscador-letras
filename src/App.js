@@ -1,9 +1,9 @@
+import Formulario from './components/Formulario';
+
 const App = () => (
-  <div className="App">
-    <div className="title">
-      <h1>Titulo</h1>
-    </div>
-  </div>
+  <>
+    <Formulario />
+  </>
 );
 
 export default App;
